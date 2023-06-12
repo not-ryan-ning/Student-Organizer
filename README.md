@@ -1,7 +1,9 @@
 # Student Organizer
 **Organize all things student-related in one place!**
 
-The Student Organizer is a full-stack application that allows users to organize and view key information about a student in one place, storing user input by reading and writing to files. It was created for my client, a primary teacher, as part of the IB CS Higher Level Internal Assessment, and attained a score of 7/7.
+The Student Organizer is a full-stack application that allows users to organize and view key information about a student in one place, storing user input by reading and writing to files. 
+
+It was created for my client, a primary teacher, as part of the IB CS Higher Level Internal Assessment, and attained a score of 7/7.
 
 With the Student Organizer, you can:
 1. Manage student and year group portfolios, storing data such as grades, allergies, birthdates, etc.
