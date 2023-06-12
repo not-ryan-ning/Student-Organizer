@@ -26,6 +26,6 @@ The **back-end** is constructed using several Java utilities, including **`RegEx
 - **`ReaderHelper.java`** and **`WriterHelper.java`** classes contain methods which use `File`, `PrintWriter`, and `Scanner` utilities to read and write data to the appropriate files, `classFile.txt`, `gradeFile.txt`, or `studentFile.txt`.
 - **`SearchHelper.java`** contains methods to search for students.
 - **`Student.java`** contains initialization methods of `Student` objects. Each `Student` object contains a `StudentGrade` object, which is initialized in **`StudentGrade.java`**. 
-- **`ClassGroup.java`** contains initialization methods of 'ClassGroup' objects.
+- **`ClassGroup.java`** contains initialization methods of `ClassGroup` objects, which contain `Student` objects. 
 - **`GradeEditor.java`**, **`EditStudents.java`**, **`ClassEditor.java`** contain methods to manage information of the various objects. 
 - **`ViewStudents.java`** is used to display information stored in `Student` objects.
