@@ -23,7 +23,7 @@ The **front-end** is constructed with **`Java Swing`**.
 The **back-end** is constructed using several Java utilities, including **`RegEx`**, **`ArrayList`**, **`PrintWriter`**, and **`Scanner`**.
 - **`RegEx`** utility is used for data validation of user inputted data in various JFrames such as `AddStudent.java` or `AddClass.java`.
 - **`BirthdayCalendar.java`** and **`GradeTable.java`** use the `ArrayList` utility to generate **dynamic 2D String[][]** arrays to display birthdates in a calendar, and grades in a table.
-- **`ReaderHelper.java`** and **`WriterHelper.java`** classes contain methods which use `File`, `PrintWriter`, and `Scanner` utilities to read and write data to files.
+- **`ReaderHelper.java`** and **`WriterHelper.java`** classes contain methods which use `File`, `PrintWriter`, and `Scanner` utilities to read and write data to the appropriate files, `classFile.txt`, `gradeFile.txt`, or `studentFile.txt`.
 - **`SearchHelper.java`** contains methods to search for students.
 - **`Student.java`** contains initialzation methods of `Student` objects. Each `Student` object contains a `StudentGrade` object, which is initialized in **`StudentGrade.java`**. **`ClassGroup.java`** contains initialzation methods of 'ClassGroup' objects.
 - **`GradeEditor.java`**, **`EditStudents.java`**, **`ClassEditor.java`** contain methods to manage information of the various objects. 
