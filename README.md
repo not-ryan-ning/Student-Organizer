@@ -7,7 +7,7 @@ It was created for my client, a primary teacher, as part of the IB CS Higher Lev
 
 With the Student Organizer, you can:
 1. Manage student and year group portfolios, storing data such as grades, allergies, birthdates, etc.
-2. Create visualizations birthdates on a calendar and grades for a class group in a table.
+2. Create visualizations and schedule birthdates on a calendar and grades for a class group in a table.
 3. Search and retrieve student information based on any data stored. 
 
 ### Running the Program 
